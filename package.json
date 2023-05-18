@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Express Hello World",
   "main": "server.js",
-  "repository": "https://github.com/fscarmen2/X-for-Glitch",
-  "author": "fscarmen",
-  "license": "MIT",
+  "repository": "https://github.com/likedidu/gohead",
   "private": false,
   "scripts": {
     "start": "node server.js"
